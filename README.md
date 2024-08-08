@@ -54,6 +54,13 @@ cd camunda8-job-workers
 mvn spring-boot:run
 ```
 
+### Sample Output:
+![img_1.png](img_1.png)
+
+
+![img_2.png](img_2.png)
+
+
 ## Deployment and Testing
 
 - **Deploy a Zeebe Worker:**
