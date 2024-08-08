@@ -69,5 +69,10 @@ Within your Camunda 8 SaaS environment, follow the instructions to deploy a new 
 ## Start a Process:
 
 - Trigger a process in Camunda 8 that includes a service task targeted at your Zeebe worker. Observe the logs in your application's console as the worker receives and processes jobs.
+- **Customer Onboarding BPMN :**
 
-![img.png](img.png)
+![img_3.png](img_3.png)
+
+- **Sample Card Payment BPMN :**
+
+- ![img.png](img.png)
